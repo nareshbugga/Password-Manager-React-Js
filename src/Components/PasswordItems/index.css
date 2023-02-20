@@ -1,0 +1,71 @@
+.button-1 {
+  background-color: #0b69ff;
+}
+.button-2 {
+  background-color: #f59e0b;
+}
+.button-3 {
+  background-color: #10b981;
+}
+.button-4 {
+  background-color: #0ea5e9;
+}
+.button-5 {
+  background-color: #b91c1c;
+}
+.button-6 {
+  background-color: #7683cb;
+}
+
+.initial-letter {
+  width: 45px;
+  height: 45px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  text-align: center;
+  border-radius: 25px;
+  padding: 8px;
+  color: #ffffff;
+  margin-top: 35px;
+  font-size: 25px;
+}
+.name-container {
+  display: flex;
+}
+li {
+  list-style-type: none;
+  width: 25vw;
+  height: 20vh;
+  border: 1px solid #94a3b8;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-left: 10px;
+}
+.delete-image {
+  width: 30px;
+  height: 30px;
+}
+.button {
+  background-color: transparent;
+  border: none;
+}
+.items-container {
+  margin-left: 20px;
+}
+.website-heading {
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 20px;
+}
+.user-name {
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.star-image {
+  width: 150px;
+}
